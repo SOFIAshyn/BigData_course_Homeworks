@@ -1,0 +1,371 @@
+{
+    "weeks": [
+        {
+            "start_date": "2017-11-14 00:00:00",
+            "end_date": "2017-11-21 00:00:00",
+            "category_id": 28,
+            "number_of_videos": 1,
+            "total_views": 6930411,
+            "video_ids": [
+                "V5r3oFlTo0w",
+                "wOBnq0Ewz5k",
+                "zVMM-mghOlQ"
+            ]
+        },
+        {
+            "start_date": "2017-11-21 00:00:00",
+            "end_date": "2017-11-28 00:00:00",
+            "category_id": 10,
+            "number_of_videos": 2,
+            "total_views": 11001081,
+            "video_ids": [
+                "6GOrAb3KfWo",
+                "m0CM0fzwqJ0",
+                "NfFsstWdZXU"
+            ]
+        },
+        {
+            "start_date": "2017-11-28 00:00:00",
+            "end_date": "2017-12-05 00:00:00",
+            "category_id": 24,
+            "number_of_videos": 3,
+            "total_views": 6983081,
+            "video_ids": [
+                "uE-eCIJp4qY",
+                "KpBAl5Mf7dQ"
+            ]
+        },
+        {
+            "start_date": "2017-12-05 00:00:00",
+            "end_date": "2017-12-12 00:00:00",
+            "category_id": 23,
+            "number_of_videos": 5,
+            "total_views": 3204577,
+            "video_ids": [
+                "98pE29S5Gb4",
+                "3gouwsTAC8w"
+            ]
+        },
+        {
+            "start_date": "2017-12-12 00:00:00",
+            "end_date": "2017-12-19 00:00:00",
+            "category_id": 22,
+            "number_of_videos": 4,
+            "total_views": 3533884,
+            "video_ids": [
+                "0ppGoXUkJ0c",
+                "AcUDTEgpQnc",
+                "yP6VGTtRgMI",
+                "VwXR-UUb0f8"
+            ]
+        },
+        {
+            "start_date": "2017-12-19 00:00:00",
+            "end_date": "2017-12-26 00:00:00",
+            "category_id": 22,
+            "number_of_videos": 4,
+            "total_views": 2465212,
+            "video_ids": [
+                "2UVE5nZ3_hk",
+                "cKVXEOxGaf0"
+            ]
+        },
+        {
+            "start_date": "2017-12-26 00:00:00",
+            "end_date": "2018-01-02 00:00:00",
+            "category_id": 23,
+            "number_of_videos": 1,
+            "total_views": 3103730,
+            "video_ids": [
+                "Tz50vEX0nwE"
+            ]
+        },
+        {
+            "start_date": "2018-01-02 00:00:00",
+            "end_date": "2018-01-09 00:00:00",
+            "category_id": 10,
+            "number_of_videos": 1,
+            "total_views": 9372010,
+            "video_ids": [
+                "TCq_Adg4nmw"
+            ]
+        },
+        {
+            "start_date": "2018-01-09 00:00:00",
+            "end_date": "2018-01-16 00:00:00",
+            "category_id": 10,
+            "number_of_videos": 1,
+            "total_views": 862462,
+            "video_ids": [
+                "9cXeyqvKAek"
+            ]
+        },
+        {
+            "start_date": "2018-01-16 00:00:00",
+            "end_date": "2018-01-23 00:00:00",
+            "category_id": 22,
+            "number_of_videos": 6,
+            "total_views": 2926936,
+            "video_ids": [
+                "XvE2XFgp008",
+                "x7Ilf1mAZCk",
+                "J5QiqyFy0qI",
+                "xbB0f4uu4ek",
+                "5htzLSBPOTQ",
+                "jVnmITejlMc"
+            ]
+        },
+        {
+            "start_date": "2018-01-23 00:00:00",
+            "end_date": "2018-01-30 00:00:00",
+            "category_id": 22,
+            "number_of_videos": 1,
+            "total_views": 1004572,
+            "video_ids": [
+                "pYCmkonx_XA"
+            ]
+        },
+        {
+            "start_date": "2018-01-30 00:00:00",
+            "end_date": "2018-02-06 00:00:00",
+            "category_id": 24,
+            "number_of_videos": 3,
+            "total_views": 1758304,
+            "video_ids": [
+                "FsN7XmJZP5I",
+                "HHwPDJ8TSFM"
+            ]
+        },
+        {
+            "start_date": "2018-02-06 00:00:00",
+            "end_date": "2018-02-13 00:00:00",
+            "category_id": 28,
+            "number_of_videos": 1,
+            "total_views": 6224388,
+            "video_ids": [
+                "wjKNbSMvI74",
+                "nJtAxj9A_sk"
+            ]
+        },
+        {
+            "start_date": "2018-02-13 00:00:00",
+            "end_date": "2018-02-20 00:00:00",
+            "category_id": 10,
+            "number_of_videos": 3,
+            "total_views": 2168985,
+            "video_ids": [
+                "n1Gx8vat11k"
+            ]
+        },
+        {
+            "start_date": "2018-02-20 00:00:00",
+            "end_date": "2018-02-27 00:00:00",
+            "category_id": 24,
+            "number_of_videos": 3,
+            "total_views": 3753054,
+            "video_ids": [
+                "GrpT7DygRro",
+                "6U4-av8KoSc",
+                "Cc-10q1PxpI"
+            ]
+        },
+        {
+            "start_date": "2018-02-27 00:00:00",
+            "end_date": "2018-03-06 00:00:00",
+            "category_id": 24,
+            "number_of_videos": 2,
+            "total_views": 2292328,
+            "video_ids": [
+                "ZP2K-nQgLxM"
+            ]
+        },
+        {
+            "start_date": "2018-03-06 00:00:00",
+            "end_date": "2018-03-13 00:00:00",
+            "category_id": 22,
+            "number_of_videos": 2,
+            "total_views": 7425830,
+            "video_ids": [
+                "aEFCUtv0DF0",
+                "ou2IHYy5UCY"
+            ]
+        },
+        {
+            "start_date": "2018-03-13 00:00:00",
+            "end_date": "2018-03-20 00:00:00",
+            "category_id": 24,
+            "number_of_videos": 3,
+            "total_views": 3838818,
+            "video_ids": [
+                "OQ6JQDmTneU"
+            ]
+        },
+        {
+            "start_date": "2018-03-20 00:00:00",
+            "end_date": "2018-03-27 00:00:00",
+            "category_id": 24,
+            "number_of_videos": 2,
+            "total_views": 3455866,
+            "video_ids": [
+                "17_XDUr7rtc"
+            ]
+        },
+        {
+            "start_date": "2018-03-27 00:00:00",
+            "end_date": "2018-04-03 00:00:00",
+            "category_id": 25,
+            "number_of_videos": 16,
+            "total_views": 22039816,
+            "video_ids": [
+                "YDKEIs8dBhU",
+                "X8NgeTmCskU",
+                "X_RgHMOFVeg",
+                "I-Wchb8YQy4",
+                "ZsRNcWPSXRU",
+                "e5TbYF7jZ7M",
+                "KSbln142U2g",
+                "iYkErH0MkwI",
+                "txT8THEFAN4",
+                "1pKJiouu604",
+                "SIVwcP5ki4k",
+                "XcDcWtZwytY",
+                "hl_tnQDgzxw",
+                "XdXKvQwumlg",
+                "TNt361mktDA",
+                "5A1hp3_GEYw"
+            ]
+        },
+        {
+            "start_date": "2018-04-03 00:00:00",
+            "end_date": "2018-04-10 00:00:00",
+            "category_id": 22,
+            "number_of_videos": 2,
+            "total_views": 2113155,
+            "video_ids": [
+                "YQRmaQ14-LA",
+                "o0YFMtOskXg"
+            ]
+        },
+        {
+            "start_date": "2018-04-10 00:00:00",
+            "end_date": "2018-04-17 00:00:00",
+            "category_id": 24,
+            "number_of_videos": 2,
+            "total_views": 3860809,
+            "video_ids": [
+                "6Bpu0nMAaQs",
+                "tD99WhUKJR4"
+            ]
+        },
+        {
+            "start_date": "2018-04-17 00:00:00",
+            "end_date": "2018-04-24 00:00:00",
+            "category_id": 10,
+            "number_of_videos": 3,
+            "total_views": 3043771,
+            "video_ids": [
+                "0e9JgyzCIBc",
+                "ZhrDuugsQps",
+                "MgvrkdxG2cc"
+            ]
+        },
+        {
+            "start_date": "2018-04-24 00:00:00",
+            "end_date": "2018-05-01 00:00:00",
+            "category_id": 22,
+            "number_of_videos": 2,
+            "total_views": 1723538,
+            "video_ids": [
+                "VVWpOrDLD9M"
+            ]
+        },
+        {
+            "start_date": "2018-05-01 00:00:00",
+            "end_date": "2018-05-08 00:00:00",
+            "category_id": 23,
+            "number_of_videos": 3,
+            "total_views": 4018197,
+            "video_ids": [
+                "Du90MCtUpN0",
+                "3idFV0JJN6o",
+                "kdoo9Ub3o1M"
+            ]
+        },
+        {
+            "start_date": "2018-05-08 00:00:00",
+            "end_date": "2018-05-15 00:00:00",
+            "category_id": 29,
+            "number_of_videos": 1,
+            "total_views": 617621,
+            "video_ids": [
+                "vYPcpGkWHIc"
+            ]
+        },
+        {
+            "start_date": "2018-05-15 00:00:00",
+            "end_date": "2018-05-22 00:00:00",
+            "category_id": 10,
+            "number_of_videos": 10,
+            "total_views": 31557484,
+            "video_ids": [
+                "GLzPzRamDuo",
+                "ZWsVHuPk8N0",
+                "bbkpzTsaRLM",
+                "EqXYMteoLeg",
+                "u2GV5axX47o",
+                "nTpSlOxFDzk",
+                "sVWA8sdcUGA",
+                "VsbWJE8mwnY",
+                "3K8uFxm8d0s",
+                "WxGKGy0asAw",
+                "Xd3uJb59azA",
+                "iv1y55_wL9Q",
+                "2kJoQS5m2WU",
+                "jgsTejuD7X4"
+            ]
+        },
+        {
+            "start_date": "2018-05-22 00:00:00",
+            "end_date": "2018-05-29 00:00:00",
+            "category_id": 10,
+            "number_of_videos": 3,
+            "total_views": 13313419,
+            "video_ids": [
+                "h3Yb9PazKZA"
+            ]
+        },
+        {
+            "start_date": "2018-05-29 00:00:00",
+            "end_date": "2018-06-05 00:00:00",
+            "category_id": 10,
+            "number_of_videos": 8,
+            "total_views": 30748410,
+            "video_ids": [
+                "UQCa3WEFuRk",
+                "0D2Zt_crqEE",
+                "1nX0kF2UwDc",
+                "wEDJcp09hkk"
+            ]
+        },
+        {
+            "start_date": "2018-06-05 00:00:00",
+            "end_date": "2018-06-12 00:00:00",
+            "category_id": 23,
+            "number_of_videos": 3,
+            "total_views": 3472009,
+            "video_ids": [
+                "ENtyeLY3vIU"
+            ]
+        },
+        {
+            "start_date": "2018-06-12 00:00:00",
+            "end_date": "2018-06-19 00:00:00",
+            "category_id": 23,
+            "number_of_videos": 1,
+            "total_views": 5991119,
+            "video_ids": [
+                "dbQV8dTgxao"
+            ]
+        }
+    ]
+}
