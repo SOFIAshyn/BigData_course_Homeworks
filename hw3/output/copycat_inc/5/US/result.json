@@ -1,0 +1,114 @@
+{
+    "channels": [
+        {
+            "channel_name": "Lucas and Marcus",
+            "total_trending_days": 30,
+            "videos_days": [
+                {
+                    "video_id": "j4KvrAUjn6c",
+                    "video_title": "WE MADE OUR MOM CRY...HER DREAM CAME TRUE!",
+                    "trending_days": 30
+                }
+            ]
+        },
+        {
+            "channel_name": "SamSmithWorldVEVO",
+            "total_trending_days": 29,
+            "videos_days": [
+                {
+                    "video_id": "8h--kFui1JA",
+                    "video_title": "Sam Smith - Pray (Official Video) ft. Logic",
+                    "trending_days": 29
+                }
+            ]
+        },
+        {
+            "channel_name": "Selena Gomez",
+            "total_trending_days": 28,
+            "videos_days": [
+                {
+                    "video_id": "ulNswX3If6U",
+                    "video_title": "Selena Gomez - Back To You (Lyric Video)",
+                    "trending_days": 28
+                }
+            ]
+        },
+        {
+            "channel_name": "grav3yardgirl",
+            "total_trending_days": 29,
+            "videos_days": [
+                {
+                    "video_id": "QBL8IRJ5yHU",
+                    "video_title": "Why I'm So Scared (being myself and crying too much)",
+                    "trending_days": 29
+                }
+            ]
+        },
+        {
+            "channel_name": "Rooster Teeth",
+            "total_trending_days": 29,
+            "videos_days": [
+                {
+                    "video_id": "NBSAQenU2Bk",
+                    "video_title": "Rooster Teeth Animated Adventures - Millie So Serious",
+                    "trending_days": 29
+                }
+            ]
+        },
+        {
+            "channel_name": "20th Century Fox",
+            "total_trending_days": 28,
+            "videos_days": [
+                {
+                    "video_id": "6S9c5nnDd_s",
+                    "video_title": "Bohemian Rhapsody | Teaser Trailer [HD] | 20th Century FOX",
+                    "trending_days": 28
+                }
+            ]
+        },
+        {
+            "channel_name": "Unbox Therapy",
+            "total_trending_days": 29,
+            "videos_days": [
+                {
+                    "video_id": "r-3iathMo7o",
+                    "video_title": "The ULTIMATE $30,000 Gaming PC Setup",
+                    "trending_days": 29
+                }
+            ]
+        },
+        {
+            "channel_name": "Cobra Kai",
+            "total_trending_days": 28,
+            "videos_days": [
+                {
+                    "video_id": "WIV3xNz8NoM",
+                    "video_title": "Cobra Kai Season 2",
+                    "trending_days": 28
+                }
+            ]
+        },
+        {
+            "channel_name": "Complex",
+            "total_trending_days": 29,
+            "videos_days": [
+                {
+                    "video_id": "t4pRQ0jn23Q",
+                    "video_title": "YoungBoy Never Broke Again Goes Sneaker Shopping With Complex",
+                    "trending_days": 29
+                }
+            ]
+        },
+        {
+            "channel_name": "Charlie Puth",
+            "total_trending_days": 29,
+            "videos_days": [
+                {
+                    "video_id": "iILJvqrAQ_w",
+                    "video_title": "Charlie Puth - BOY [Official Audio]",
+                    "trending_days": 29
+                }
+            ]
+        }
+    ]
+}

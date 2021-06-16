@@ -1,0 +1,114 @@
+{
+    "channels": [
+        {
+            "channel_name": "PostMaloneVEVO",
+            "total_trending_days": 8,
+            "videos_days": [
+                {
+                    "video_id": "UceaB4D0jpo",
+                    "video_title": "Post Malone - rockstar ft. 21 Savage",
+                    "trending_days": 8
+                }
+            ]
+        },
+        {
+            "channel_name": "GEazyMusicVEVO",
+            "total_trending_days": 8,
+            "videos_days": [
+                {
+                    "video_id": "l_lblj8Cq0o",
+                    "video_title": "G-Eazy - No Limit REMIX ft. A$AP Rocky, Cardi B, French Montana, Juicy J, Belly",
+                    "trending_days": 8
+                }
+            ]
+        },
+        {
+            "channel_name": "Marvel Entertainment",
+            "total_trending_days": 8,
+            "videos_days": [
+                {
+                    "video_id": "6ZfuNTqbHE8",
+                    "video_title": "Marvel Studios' Avengers: Infinity War Official Trailer",
+                    "trending_days": 8
+                }
+            ]
+        },
+        {
+            "channel_name": "ChildishGambinoVEVO",
+            "total_trending_days": 8,
+            "videos_days": [
+                {
+                    "video_id": "VYOjWnS4cMY",
+                    "video_title": "Childish Gambino - This Is America (Official Video)",
+                    "trending_days": 8
+                }
+            ]
+        },
+        {
+            "channel_name": "Dude Perfect",
+            "total_trending_days": 7,
+            "videos_days": [
+                {
+                    "video_id": "VJwoSfTOhyM",
+                    "video_title": "Water Bottle Flip 2 | Dude Perfect",
+                    "trending_days": 7
+                }
+            ]
+        },
+        {
+            "channel_name": "TaylorSwiftVEVO",
+            "total_trending_days": 7,
+            "videos_days": [
+                {
+                    "video_id": "tCXGJQYZ9JA",
+                    "video_title": "Taylor Swift - Delicate",
+                    "trending_days": 7
+                }
+            ]
+        },
+        {
+            "channel_name": "BlocBoy JB",
+            "total_trending_days": 7,
+            "videos_days": [
+                {
+                    "video_id": "NV-3s2wwC8c",
+                    "video_title": "BlocBoy JB & Drake Look Alive Prod By: Tay Keith (Official Music Video) Shot By: @Fredrivk_Ali",
+                    "trending_days": 7
+                }
+            ]
+        },
+        {
+            "channel_name": "Tide",
+            "total_trending_days": 7,
+            "videos_days": [
+                {
+                    "video_id": "doP7xKdGOKs",
+                    "video_title": "Tide | Super Bowl LII 2018 Commercial | It's a Tide Ad",
+                    "trending_days": 7
+                }
+            ]
+        },
+        {
+            "channel_name": "Lucas the Spider",
+            "total_trending_days": 7,
+            "videos_days": [
+                {
+                    "video_id": "ieIeBWulAiQ",
+                    "video_title": "Lucas the Spider - Playtime",
+                    "trending_days": 7
+                }
+            ]
+        },
+        {
+            "channel_name": "chadnisha",
+            "total_trending_days": 7,
+            "videos_days": [
+                {
+                    "video_id": "p8phGxzUC_Y",
+                    "video_title": "Alexa randomly laughing compilation",
+                    "trending_days": 7
+                }
+            ]
+        }
+    ]
+}

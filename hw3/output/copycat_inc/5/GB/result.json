@@ -1,0 +1,114 @@
+{
+    "channels": [
+        {
+            "channel_name": "Kylie Jenner",
+            "total_trending_days": 38,
+            "videos_days": [
+                {
+                    "video_id": "BhIEIO0vaBE",
+                    "video_title": "To Our Daughter",
+                    "trending_days": 38
+                }
+            ]
+        },
+        {
+            "channel_name": "NFL",
+            "total_trending_days": 38,
+            "videos_days": [
+                {
+                    "video_id": "2z3EUY1aXdY",
+                    "video_title": "Justin Timberlake\u2019s FULL Pepsi Super Bowl LII Halftime Show! | NFL Highlights",
+                    "trending_days": 38
+                }
+            ]
+        },
+        {
+            "channel_name": "Universal Pictures",
+            "total_trending_days": 38,
+            "videos_days": [
+                {
+                    "video_id": "NooW_RbfdWI",
+                    "video_title": "Jurassic World: Fallen Kingdom - Official Trailer #2 [HD]",
+                    "trending_days": 38
+                }
+            ]
+        },
+        {
+            "channel_name": "Disney\u2022Pixar",
+            "total_trending_days": 37,
+            "videos_days": [
+                {
+                    "video_id": "YBpdL9hSac4",
+                    "video_title": "Incredibles 2 - Olympics Sneak Peek",
+                    "trending_days": 37
+                }
+            ]
+        },
+        {
+            "channel_name": "FiftyShadesVEVO",
+            "total_trending_days": 37,
+            "videos_days": [
+                {
+                    "video_id": "ABLsSWE06q4",
+                    "video_title": "Whethan, Dua Lipa - High (Audio)",
+                    "trending_days": 37
+                }
+            ]
+        },
+        {
+            "channel_name": "Maroon5VEVO",
+            "total_trending_days": 37,
+            "videos_days": [
+                {
+                    "video_id": "4uTNVumfm84",
+                    "video_title": "Maroon 5 - Wait",
+                    "trending_days": 37
+                }
+            ]
+        },
+        {
+            "channel_name": "Janelle Mon\u00e1e",
+            "total_trending_days": 37,
+            "videos_days": [
+                {
+                    "video_id": "tGRzz0oqgUE",
+                    "video_title": "Janelle Mon\u00e1e \u2013 Make Me Feel [Official Music Video]",
+                    "trending_days": 37
+                }
+            ]
+        },
+        {
+            "channel_name": "PTXofficial",
+            "total_trending_days": 37,
+            "videos_days": [
+                {
+                    "video_id": "elwTgpHlty0",
+                    "video_title": "[OFFICIAL VIDEO] HAVANA - PENTATONIX",
+                    "trending_days": 37
+                }
+            ]
+        },
+        {
+            "channel_name": "MLG Highlights",
+            "total_trending_days": 37,
+            "videos_days": [
+                {
+                    "video_id": "V5cOvyDpWfM",
+                    "video_title": "Fergie Performs The U.S. National Anthem / 2018 NBA All-Star Game",
+                    "trending_days": 37
+                }
+            ]
+        },
+        {
+            "channel_name": "MiguelVEVO",
+            "total_trending_days": 38,
+            "videos_days": [
+                {
+                    "video_id": "u_C4onVrr8U",
+                    "video_title": "Miguel - Come Through and Chill ft. J. Cole, Salaam Remi",
+                    "trending_days": 38
+                }
+            ]
+        }
+    ]
+}

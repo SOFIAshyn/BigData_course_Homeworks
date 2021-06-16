@@ -1,0 +1,114 @@
+{
+    "channels": [
+        {
+            "channel_name": "Wissenswert",
+            "total_trending_days": 7,
+            "videos_days": [
+                {
+                    "video_id": "pk0iqFne5eU",
+                    "video_title": "Was diese Ex-Serienstars HEUTE machen",
+                    "trending_days": 7
+                }
+            ]
+        },
+        {
+            "channel_name": "RADIO PSR",
+            "total_trending_days": 6,
+            "videos_days": [
+                {
+                    "video_id": "myXi1KMyClc",
+                    "video_title": "Dieselfahrverbot Parodie - Die Toten Hosen auf s\u00e4chsisch - Tage wie diese",
+                    "trending_days": 6
+                }
+            ]
+        },
+        {
+            "channel_name": "TEAM KUKU",
+            "total_trending_days": 5,
+            "videos_days": [
+                {
+                    "video_id": "P-_iVRTAFQ8",
+                    "video_title": "CAPITAL BRA - ONE NIGHT STAND (PROD.BY THE CRATEZ & DANNYEBTRACKS)",
+                    "trending_days": 5
+                }
+            ]
+        },
+        {
+            "channel_name": "Deutschland sucht den Superstar",
+            "total_trending_days": 5,
+            "videos_days": [
+                {
+                    "video_id": "4NuxEUGnXQs",
+                    "video_title": "DSDS 2018 | Kwabena \u201cDiego\u201d Ahenkora mit Rake It Up von Yo Gotti feat. Nicky Minaj",
+                    "trending_days": 5
+                }
+            ]
+        },
+        {
+            "channel_name": "Pinball Wiz",
+            "total_trending_days": 5,
+            "videos_days": [
+                {
+                    "video_id": "McRNSFGwqtY",
+                    "video_title": "MY 98 YEAR OLD DAD'S REACTION WHEN HE FINDS OUT HOW OLD HE REALLY IS! (WARNING:FOUL LANGUAGE)",
+                    "trending_days": 5
+                }
+            ]
+        },
+        {
+            "channel_name": "Azzlackz",
+            "total_trending_days": 5,
+            "videos_days": [
+                {
+                    "video_id": "gw5_d9LD_vQ",
+                    "video_title": "ENEMY - NIMM MICH MIT [Official 4K Video]",
+                    "trending_days": 5
+                }
+            ]
+        },
+        {
+            "channel_name": "Emrah !",
+            "total_trending_days": 5,
+            "videos_days": [
+                {
+                    "video_id": "a3YSeVV_HF4",
+                    "video_title": "10 KEKS Lifehacks !",
+                    "trending_days": 5
+                }
+            ]
+        },
+        {
+            "channel_name": "Weil wir dich lieben",
+            "total_trending_days": 5,
+            "videos_days": [
+                {
+                    "video_id": "mnXnLeo54FA",
+                    "video_title": "BVG \u2013 Ohne Uns",
+                    "trending_days": 5
+                }
+            ]
+        },
+        {
+            "channel_name": "MediaMarkt Deutschland",
+            "total_trending_days": 5,
+            "videos_days": [
+                {
+                    "video_id": "V1zTJIfGKaA",
+                    "video_title": "#ZIPFELRAUSCH \u2013 Der Filmriss des Jahres | MediaMarkt",
+                    "trending_days": 5
+                }
+            ]
+        },
+        {
+            "channel_name": "Lucas the Spider",
+            "total_trending_days": 5,
+            "videos_days": [
+                {
+                    "video_id": "lGEY8IulWiA",
+                    "video_title": "Lucas the Spider - Musical Spider",
+                    "trending_days": 5
+                }
+            ]
+        }
+    ]
+}
