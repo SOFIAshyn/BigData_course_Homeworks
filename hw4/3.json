@@ -1,0 +1,137 @@
+[
+  {
+    "event": {
+      "event_name": "Online Event: DIY User Group for Bloggers & More",
+      "event_id": "dxgdhsyccjbjc",
+      "time": "2021.06.26-20:00:00"
+    },
+    "group_topics": [
+      "CMS (Content Management Systems)",
+      "Online Marketing",
+      "Open Source",
+      "WordPress",
+      "SEO (Search Engine Optimization)",
+      "Seattle",
+      "Web Development",
+      "Wordpress Customization",
+      "Wordpress Themes",
+      "Wordpress Plugins",
+      "WordPress Small Business Web Sites"
+    ],
+    "group_city": "Seattle",
+    "group_id": 1708069,
+    "group_name": "Seattle WordPress Meetup",
+    "group_state": "Washington"
+  },
+  {
+    "event": {
+      "event_name": "Overview of the Ethereum Roadmap with Special Guest Tim Beiko",
+      "event_id": "277153812",
+      "time": "2021.07.09-03:00:00"
+    },
+    "group_topics": [
+      "Open Source",
+      "Software Development",
+      "Web Development",
+      "Computer programming",
+      "Virtual Currency",
+      "Cryptography",
+      "Mesh Networks",
+      "Decentralization",
+      "Bitcoin",
+      "Cryptocurrency",
+      "Disruptive innovation",
+      "Decentralized Systems",
+      "Smart Contracts",
+      "Ethereum",
+      "Connected Communities"
+    ],
+    "group_city": "Austin",
+    "group_id": 18475764,
+    "group_name": "Ethereum Austin",
+    "group_state": "Texas"
+  },
+  {
+    "event": {
+      "event_name": "Beginner's Guide to Publishing and Sharing Content in Power BI",
+      "event_id": "278331377",
+      "time": "2021.06.24-01:30:00"
+    },
+    "group_topics": [
+      "Data Visualization",
+      "SQL Server",
+      "Azure Stream Analytics",
+      "Business Intelligence",
+      "Machine Learning",
+      "Cortana Intelligence",
+      "Azure Data Platform",
+      "Predictive Analytics",
+      "Data Mining",
+      "Power BI",
+      "Business Analytics",
+      "Big Data",
+      "Data Science",
+      "Big Data Analytics",
+      "Data Warehousing"
+    ],
+    "group_city": "Burlington",
+    "group_id": 10128932,
+    "group_name": "Boston Business Intelligence",
+    "group_state": "Massachusetts"
+  },
+  {
+    "event": {
+      "event_name": "Evolution of Conversational AI and its further research",
+      "event_id": "278705653",
+      "time": "2021.06.23-20:00:00"
+    },
+    "group_topics": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
+      "Artificial Intelligence Machine Learning Robotics",
+      "Deep Learning",
+      "Data Science using Python",
+      "Deep Reinforcement Learning",
+      "Machine Learning with Python",
+      "Computer programming",
+      "Programming Languages",
+      "Open Source Python",
+      "JavaScript",
+      "golang programming language",
+      "Golang",
+      "Open Source"
+    ],
+    "group_city": "Sunnyvale",
+    "group_id": 34057805,
+    "group_name": "Bugout.dev: Power to the developers",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "Join us for our monthly technology Drinkup",
+      "event_id": "tzldlsycckbcb",
+      "time": "2021.07.02-00:00:00"
+    },
+    "group_topics": [
+      "Technology Startups",
+      "Open Source",
+      "Mobile Development",
+      "JavaScript",
+      "HTML5",
+      "Android Development",
+      "Entrepreneurship",
+      "Internet Professionals",
+      "Mobile Technology",
+      "Web Design",
+      "Technology",
+      "Cincinnati",
+      "Web Technology",
+      "Computer programming"
+    ],
+    "group_city": "Cincinnati",
+    "group_id": 3577282,
+    "group_name": "Drinkup",
+    "group_state": "Ohio"
+  }
+]
