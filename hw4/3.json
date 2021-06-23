@@ -1,137 +1,970 @@
 [
   {
     "event": {
-      "event_name": "Online Event: DIY User Group for Bloggers & More",
-      "event_id": "dxgdhsyccjbjc",
-      "time": "2021.06.26-20:00:00"
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008462",
+      "time": "2021.07.01-05:00:00"
     },
     "group_topics": [
-      "CMS (Content Management Systems)",
-      "Online Marketing",
-      "Open Source",
-      "WordPress",
-      "SEO (Search Engine Optimization)",
-      "Seattle",
+      "Web Technology",
+      "Marketing",
+      "New In Town",
+      "Social",
+      "Technology Startups",
+      "Computer programming",
       "Web Development",
-      "Wordpress Customization",
-      "Wordpress Themes",
-      "Wordpress Plugins",
-      "WordPress Small Business Web Sites"
+      "Women Entrepreneurs",
+      "Professional Networking",
+      "Social Networking",
+      "New Technology",
+      "Innovation",
+      "Software Development",
+      "Business Strategy",
+      "Startup Businesses"
     ],
-    "group_city": "Seattle",
-    "group_id": 1708069,
-    "group_name": "Seattle WordPress Meetup",
-    "group_state": "Washington"
+    "group_city": "Chapel Hill",
+    "group_id": 19260897,
+    "group_name": "North Carolina  Startup: Idea to IPO",
+    "group_state": "North Carolina"
   },
   {
     "event": {
-      "event_name": "Overview of the Ethereum Roadmap with Special Guest Tim Beiko",
-      "event_id": "277153812",
-      "time": "2021.07.09-03:00:00"
+      "event_name": "Code Co-op | Memphis - A free coding help & hack night",
+      "event_id": "wbgfwryccjbdc",
+      "time": "2021.06.23-02:30:00"
     },
     "group_topics": [
-      "Open Source",
+      "Web Development",
+      "Software Development",
+      "WordPress",
+      "Ruby On Rails",
+      "Ruby",
+      "Python",
+      "JavaScript",
+      "Java",
+      "Golang",
+      "PHP",
+      ".NET"
+    ],
+    "group_city": "Memphis",
+    "group_id": 1606258,
+    "group_name": "Memphis Technology User Groups",
+    "group_state": "Tennessee"
+  },
+  {
+    "event": {
+      "event_name": "Code Co-op | Memphis - A free coding help & hack night",
+      "event_id": "wbgfwryccjbdc",
+      "time": "2021.06.23-02:30:00"
+    },
+    "group_topics": [
+      "Web Development",
+      "Software Development",
+      "WordPress",
+      "Ruby On Rails",
+      "Ruby",
+      "Python",
+      "JavaScript",
+      "Java",
+      "Golang",
+      "PHP",
+      ".NET"
+    ],
+    "group_city": "Memphis",
+    "group_id": 1606258,
+    "group_name": "Memphis Technology User Groups",
+    "group_state": "Tennessee"
+  },
+  {
+    "event": {
+      "event_name": "Coding For Beginners - Intro to React | Workshop",
+      "event_id": "279002178",
+      "time": "2021.08.05-01:00:00"
+    },
+    "group_topics": [
+      "Big Data",
       "Software Development",
       "Web Development",
+      "Software Engineering",
+      "Programming Languages",
       "Computer programming",
-      "Virtual Currency",
-      "Cryptography",
-      "Mesh Networks",
-      "Decentralization",
-      "Bitcoin",
-      "Cryptocurrency",
-      "Disruptive innovation",
-      "Decentralized Systems",
-      "Smart Contracts",
-      "Ethereum",
-      "Connected Communities"
+      "Technology",
+      "Education & Technology",
+      "learn to code",
+      "User Experience",
+      "Coding for Beginners",
+      "Data Science",
+      "Python",
+      "Machine Learning",
+      "New Technology"
     ],
-    "group_city": "Austin",
-    "group_id": 18475764,
-    "group_name": "Ethereum Austin",
+    "group_city": "Houston",
+    "group_id": 28249112,
+    "group_name": "Houston Learning Community | Flatiron School",
     "group_state": "Texas"
   },
   {
     "event": {
-      "event_name": "Beginner's Guide to Publishing and Sharing Content in Power BI",
-      "event_id": "278331377",
-      "time": "2021.06.24-01:30:00"
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008487",
+      "time": "2021.07.01-05:00:00"
     },
     "group_topics": [
-      "Data Visualization",
-      "SQL Server",
-      "Azure Stream Analytics",
-      "Business Intelligence",
-      "Machine Learning",
-      "Cortana Intelligence",
-      "Azure Data Platform",
-      "Predictive Analytics",
-      "Data Mining",
-      "Power BI",
-      "Business Analytics",
-      "Big Data",
-      "Data Science",
-      "Big Data Analytics",
-      "Data Warehousing"
+      "Social",
+      "Web Technology",
+      "Marketing",
+      "Technology Startups",
+      "Entrepreneur Networking",
+      "Women Entrepreneurs",
+      "Small Business",
+      "Computer programming",
+      "Social Networking",
+      "Professional Networking",
+      "Innovation",
+      "Software Development",
+      "Professional Development",
+      "Business Strategy",
+      "Startup Businesses"
     ],
-    "group_city": "Burlington",
-    "group_id": 10128932,
-    "group_name": "Boston Business Intelligence",
+    "group_city": "Atlanta",
+    "group_id": 19260664,
+    "group_name": "Georgia Startup: Idea to IPO",
+    "group_state": "Georgia"
+  },
+  {
+    "event": {
+      "event_name": "Tech Reading Club: \"Those Pesky Pull Request Reviews\"",
+      "event_id": "278725688",
+      "time": "2021.06.29-01:00:00"
+    },
+    "group_topics": [
+      "Software Development",
+      "Computer programming",
+      "Software Engineering",
+      "Web Development",
+      "Women in Technology",
+      "WWC",
+      "Professional Networking",
+      "Machine Learning",
+      "Data Science",
+      "Web Technology",
+      "Mobile Development",
+      "PHP",
+      "JavaScript",
+      "Python",
+      "Ruby"
+    ],
+    "group_city": "Boston",
+    "group_id": 12726382,
+    "group_name": "Women Who Code Boston",
     "group_state": "Massachusetts"
   },
   {
     "event": {
-      "event_name": "Evolution of Conversational AI and its further research",
-      "event_id": "278705653",
-      "time": "2021.06.23-20:00:00"
+      "event_name": "#FrontEndParty",
+      "event_id": "hdvkkryccjbdc",
+      "time": "2021.06.23-03:00:00"
+    },
+    "group_topics": [
+      "Web Standards",
+      "New Technology",
+      "Web Technology",
+      "Web Development",
+      "Web Design",
+      "CSS",
+      "Interaction Design",
+      "JQuery",
+      "User Experience",
+      "Usability",
+      "HTML",
+      "JavaScript Libraries",
+      "JavaScript Frameworks",
+      "Front-end Development",
+      "nodeJS"
+    ],
+    "group_city": "New Orleans",
+    "group_id": 7174992,
+    "group_name": "#FrontEndParty",
+    "group_state": "Louisiana"
+  },
+  {
+    "event": {
+      "event_name": "FreeCodeCamp - Study Group",
+      "event_id": "kdzrzryccjbdc",
+      "time": "2021.06.23-03:00:00"
+    },
+    "group_topics": [
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "JQuery",
+      "Computer programming",
+      "Front-end Development",
+      "HTML",
+      "HTML5",
+      "CSS3",
+      "JavaScript Frameworks",
+      "nodeJS",
+      "JavaScript Applications"
+    ],
+    "group_city": "Salt Lake City",
+    "group_id": 8098192,
+    "group_name": "UtahJS",
+    "group_state": "Utah"
+  },
+  {
+    "event": {
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008487",
+      "time": "2021.07.01-05:00:00"
+    },
+    "group_topics": [
+      "Social",
+      "Web Technology",
+      "Marketing",
+      "Technology Startups",
+      "Entrepreneur Networking",
+      "Women Entrepreneurs",
+      "Small Business",
+      "Computer programming",
+      "Social Networking",
+      "Professional Networking",
+      "Innovation",
+      "Software Development",
+      "Professional Development",
+      "Business Strategy",
+      "Startup Businesses"
+    ],
+    "group_city": "Atlanta",
+    "group_id": 19260664,
+    "group_name": "Georgia Startup: Idea to IPO",
+    "group_state": "Georgia"
+  },
+  {
+    "event": {
+      "event_name": "Democratize Data and Scale Augmented Analytics with Integrated AI",
+      "event_id": "279005455",
+      "time": "2021.06.29-21:00:00"
     },
     "group_topics": [
       "Artificial Intelligence",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Machine Learning",
+      "Neural Networks",
+      "Big Data",
+      "Big Data Analytics",
+      "Cloud Computing",
+      "Blockchain",
+      "Cryptocurrency",
+      "Internet of Things",
+      "Microservices",
+      "Containers",
+      "Scalability",
+      "Data Science"
+    ],
+    "group_city": "Atlanta",
+    "group_id": 27924642,
+    "group_name": "Atlanta AI Developers Group",
+    "group_state": "Georgia"
+  },
+  {
+    "event": {
+      "event_name": "Diversity, Equity, and Inclusion in the Workplace",
+      "event_id": "278471093",
+      "time": "2021.06.25-02:30:00"
+    },
+    "group_topics": [
+      "Web Design",
+      "Information Architecture",
+      "Interaction Design",
+      "Web Development",
+      "User Experience",
+      "Usability",
+      "UX Design",
+      "User experience practices"
+    ],
+    "group_city": "Austin",
+    "group_id": 33054430,
+    "group_name": "UX in ATX Meetup Group",
+    "group_state": "Texas"
+  },
+  {
+    "event": {
+      "event_name": "Tech Reading Club: \"Those Pesky Pull Request Reviews\"",
+      "event_id": "278725688",
+      "time": "2021.06.29-01:00:00"
+    },
+    "group_topics": [
+      "Software Development",
+      "Computer programming",
+      "Software Engineering",
+      "Web Development",
+      "Women in Technology",
+      "WWC",
+      "Professional Networking",
       "Machine Learning",
       "Data Science",
-      "Artificial Intelligence Machine Learning Robotics",
-      "Deep Learning",
-      "Data Science using Python",
-      "Deep Reinforcement Learning",
-      "Machine Learning with Python",
-      "Computer programming",
-      "Programming Languages",
-      "Open Source Python",
+      "Web Technology",
+      "Mobile Development",
+      "PHP",
       "JavaScript",
-      "golang programming language",
-      "Golang",
+      "Python",
+      "Ruby"
+    ],
+    "group_city": "Boston",
+    "group_id": 12726382,
+    "group_name": "Women Who Code Boston",
+    "group_state": "Massachusetts"
+  },
+  {
+    "event": {
+      "event_name": "Colorado Pitch Bootcamp: Learn How to Effectively Pitch Your Ideas",
+      "event_id": "278581417",
+      "time": "2021.06.23-03:00:00"
+    },
+    "group_topics": [
+      "Mobile Technology",
+      "Web Development",
+      "Software Development",
+      "Women Entrepreneurs",
+      "Web Technology",
+      "Startup Businesses",
+      "Professional Development",
+      "Professional Networking",
+      "Entrepreneur Networking",
+      "Entrepreneurship",
+      "New Technology",
+      "Founder Institute",
+      "Venture Capital",
+      "Internet Startups"
+    ],
+    "group_city": "Denver",
+    "group_id": 8814322,
+    "group_name": "Denver Startup Founder 101",
+    "group_state": "Colorado"
+  },
+  {
+    "event": {
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008494",
+      "time": "2021.07.01-05:00:00"
+    },
+    "group_topics": [
+      "Web Technology",
+      "Marketing",
+      "New In Town",
+      "Social",
+      "Technology Startups",
+      "Computer programming",
+      "Web Development",
+      "Women Entrepreneurs",
+      "Professional Networking",
+      "Social Networking",
+      "New Technology",
+      "Innovation",
+      "Software Development",
+      "Business Strategy",
+      "Startup Businesses"
+    ],
+    "group_city": "Chapel Hill",
+    "group_id": 19260897,
+    "group_name": "North Carolina  Startup: Idea to IPO",
+    "group_state": "North Carolina"
+  },
+  {
+    "event": {
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008494",
+      "time": "2021.07.01-05:00:00"
+    },
+    "group_topics": [
+      "Web Technology",
+      "Marketing",
+      "New In Town",
+      "Social",
+      "Technology Startups",
+      "Computer programming",
+      "Web Development",
+      "Women Entrepreneurs",
+      "Professional Networking",
+      "Social Networking",
+      "New Technology",
+      "Innovation",
+      "Software Development",
+      "Business Strategy",
+      "Startup Businesses"
+    ],
+    "group_city": "Chapel Hill",
+    "group_id": 19260897,
+    "group_name": "North Carolina  Startup: Idea to IPO",
+    "group_state": "North Carolina"
+  },
+  {
+    "event": {
+      "event_name": "Re-Launch 2021: Tech Talk with Chain.io, Serverless Node.js Architecture",
+      "event_id": "278758307",
+      "time": "2021.07.01-00:30:00"
+    },
+    "group_topics": [
+      "Computer programming",
+      "Web Development",
+      "Web Technology",
+      "nodeJS",
+      "JavaScript Libraries",
+      "Internet Professionals",
+      "New Technology",
+      "Rich Internet Applications",
+      "JavaScript",
+      "Software Development",
       "Open Source"
     ],
-    "group_city": "Sunnyvale",
-    "group_id": 34057805,
-    "group_name": "Bugout.dev: Power to the developers",
+    "group_city": "Philadelphia",
+    "group_id": 3877582,
+    "group_name": "Node.js Philly",
+    "group_state": "Pennsylvania"
+  },
+  {
+    "event": {
+      "event_name": "GA + SDXD Present: Ethics in Design ft. Regine Gilbert ",
+      "event_id": "278853103",
+      "time": "2021.07.01-03:30:00"
+    },
+    "group_topics": [
+      "UX Design",
+      "New Technology",
+      "Technology",
+      "Web Development",
+      "Usability",
+      "User Experience",
+      "Interaction Design",
+      "Human-Computer Interaction"
+    ],
+    "group_city": "San Diego",
+    "group_id": 3817422,
+    "group_name": "SDXD",
     "group_state": "California"
   },
   {
     "event": {
-      "event_name": "Join us for our monthly technology Drinkup",
-      "event_id": "tzldlsycckbcb",
-      "time": "2021.07.02-00:00:00"
+      "event_name": "REMOTE: Lightning Talks & Discussion",
+      "event_id": "xrfgbsyccjbdc",
+      "time": "2021.06.23-03:00:00"
     },
     "group_topics": [
-      "Technology Startups",
+      "Agile programming",
       "Open Source",
-      "Mobile Development",
-      "JavaScript",
-      "HTML5",
-      "Android Development",
-      "Entrepreneurship",
-      "Internet Professionals",
-      "Mobile Technology",
-      "Web Design",
-      "Technology",
-      "Cincinnati",
-      "Web Technology",
-      "Computer programming"
+      "Python",
+      "Django",
+      "Software Development",
+      "Computer programming",
+      "Programming Languages",
+      "Hacking",
+      "Computer Science",
+      "Functional Programming in Python",
+      "Learn Python The Hard Way",
+      "Python Web Development",
+      "Linux"
     ],
-    "group_city": "Cincinnati",
-    "group_id": 3577282,
-    "group_name": "Drinkup",
+    "group_city": "Colorado Springs",
+    "group_id": 6073642,
+    "group_name": "PySprings",
+    "group_state": "Colorado"
+  },
+  {
+    "event": {
+      "event_name": "Workshop: Build an AI/ML pipeline with BERT, TensorFlow and Amazon SageMaker",
+      "event_id": "vswcgsyccjbzb",
+      "time": "2021.06.28-19:00:00"
+    },
+    "group_topics": [
+      "Predictive Analytics",
+      "High Scalability Computing",
+      "Artificial Intelligence Programming",
+      "Artificial Intelligence Applications",
+      "Apache Spark",
+      "Data Science",
+      "Machine Learning",
+      "TensorFlow",
+      "Big Data Analytics",
+      "Deep Learning",
+      "Apache Kafka",
+      "Neural Networks",
+      "Artificial Intelligence",
+      "Natural Language Processing",
+      "Kubernetes"
+    ],
+    "group_city": "San Francisco",
+    "group_id": 18712511,
+    "group_name": "Data Science on AWS (San Francisco, Global)",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008514",
+      "time": "2021.07.01-05:00:00"
+    },
+    "group_topics": [
+      "Data Analytics",
+      "Social Networking",
+      "Entrepreneur Networking",
+      "Professional Networking",
+      "Mobile Development",
+      "Software Development",
+      "New Technology",
+      "Online Marketing",
+      "Business Strategy",
+      "Big Data",
+      "User Experience",
+      "Startup Businesses",
+      "Computer programming",
+      "Technology Startups",
+      "iOS Development"
+    ],
+    "group_city": "Boston",
+    "group_id": 19256262,
+    "group_name": "Boston Startup: Idea to IPO",
+    "group_state": "Massachusetts"
+  },
+  {
+    "event": {
+      "event_name": "Design Your Life, Design Your Career (FREE)",
+      "event_id": "276734313",
+      "time": "2021.06.28-21:30:00"
+    },
+    "group_topics": [
+      "Innovation",
+      "New Technology",
+      "Web Development",
+      "Computer programming",
+      "User Experience",
+      "Entrepreneurship",
+      "Startup Businesses",
+      "Digital Marketing",
+      "UX Design",
+      "High-Tech Professional",
+      "Tech Talks",
+      "Product Management",
+      "Data Science",
+      "Technology Startups"
+    ],
+    "group_city": "Chicago",
+    "group_id": 17606542,
+    "group_name": "Chicago Startup Community",
+    "group_state": "Illinois"
+  },
+  {
+    "event": {
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008514",
+      "time": "2021.07.01-05:00:00"
+    },
+    "group_topics": [
+      "Data Analytics",
+      "Social Networking",
+      "Entrepreneur Networking",
+      "Professional Networking",
+      "Mobile Development",
+      "Software Development",
+      "New Technology",
+      "Online Marketing",
+      "Business Strategy",
+      "Big Data",
+      "User Experience",
+      "Startup Businesses",
+      "Computer programming",
+      "Technology Startups",
+      "iOS Development"
+    ],
+    "group_city": "Boston",
+    "group_id": 19256262,
+    "group_name": "Boston Startup: Idea to IPO",
+    "group_state": "Massachusetts"
+  },
+  {
+    "event": {
+      "event_name": "Web Development Fundamentals: HTML & CSS (Remote Only)",
+      "event_id": "278635385",
+      "time": "2021.06.23-01:30:00"
+    },
+    "group_topics": [
+      "Software Development",
+      "JavaScript",
+      "Web Development",
+      "Software Engineering",
+      "Courses and Workshops",
+      "Engineering",
+      "Computer programming",
+      "Coders",
+      "Software Engineers",
+      "learn to code",
+      "learn coding",
+      "Learn Programming",
+      "Learning to Code",
+      "Coding for Beginners",
+      "Software Engineering Practices"
+    ],
+    "group_city": "Washington",
+    "group_id": 34837725,
+    "group_name": "Build With Code - Washington DC",
+    "group_state": "District Of Columbia"
+  },
+  {
+    "event": {
+      "event_name": "Web Development Fundamentals: HTML & CSS (Remote Only)",
+      "event_id": "278635385",
+      "time": "2021.06.23-01:30:00"
+    },
+    "group_topics": [
+      "Software Development",
+      "JavaScript",
+      "Web Development",
+      "Software Engineering",
+      "Courses and Workshops",
+      "Engineering",
+      "Computer programming",
+      "Coders",
+      "Software Engineers",
+      "learn to code",
+      "learn coding",
+      "Learn Programming",
+      "Learning to Code",
+      "Coding for Beginners",
+      "Software Engineering Practices"
+    ],
+    "group_city": "Washington",
+    "group_id": 34837725,
+    "group_name": "Build With Code - Washington DC",
+    "group_state": "District Of Columbia"
+  },
+  {
+    "event": {
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008522",
+      "time": "2021.07.01-05:00:00"
+    },
+    "group_topics": [
+      "Web Development",
+      "New In Town",
+      "Social Networking",
+      "Software Development",
+      "New Technology",
+      "Web Technology",
+      "Women Entrepreneurs",
+      "Professional Networking",
+      "Business Strategy",
+      "Startup Businesses",
+      "Entrepreneurship",
+      "Entrepreneur Networking",
+      "Computer programming",
+      "Technology Startups",
+      "iOS Development"
+    ],
+    "group_city": "New York",
+    "group_id": 19256315,
+    "group_name": "New York  Startup: Idea to IPO",
+    "group_state": "New York"
+  },
+  {
+    "event": {
+      "event_name": "Discover Data Analytics Preview Course",
+      "event_id": "277834595",
+      "time": "2021.06.30-02:00:00"
+    },
+    "group_topics": [
+      "Professional Development",
+      "New Technology",
+      "Computer programming",
+      "Technology Startups",
+      "Education & Technology",
+      "Web Technology"
+    ],
+    "group_city": "Saint Louis",
+    "group_id": 19278335,
+    "group_name": "Saint Louis Savvy Coders Meetup",
+    "group_state": "Missouri"
+  },
+  {
+    "event": {
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008522",
+      "time": "2021.07.01-05:00:00"
+    },
+    "group_topics": [
+      "Web Development",
+      "New In Town",
+      "Social Networking",
+      "Software Development",
+      "New Technology",
+      "Web Technology",
+      "Women Entrepreneurs",
+      "Professional Networking",
+      "Business Strategy",
+      "Startup Businesses",
+      "Entrepreneurship",
+      "Entrepreneur Networking",
+      "Computer programming",
+      "Technology Startups",
+      "iOS Development"
+    ],
+    "group_city": "New York",
+    "group_id": 19256315,
+    "group_name": "New York  Startup: Idea to IPO",
+    "group_state": "New York"
+  },
+  {
+    "event": {
+      "event_name": "Learn To Code: HTML & CSS 101 [Live-Online]",
+      "event_id": "278821534",
+      "time": "2021.07.01-03:30:00"
+    },
+    "group_topics": [
+      "JavaScript",
+      "Web Development",
+      "Software Development",
+      "Computer programming",
+      "code",
+      "Coders",
+      "learn to code",
+      "learn coding",
+      "Learning to Code",
+      "Coding for Beginners",
+      "coding practice"
+    ],
+    "group_city": "Dallas",
+    "group_id": 34159918,
+    "group_name": "Dallas Learn To Code",
+    "group_state": "Texas"
+  },
+  {
+    "event": {
+      "event_name": "Kolibri Games' Data Mesh Journey & Calculating Data Mesh ROI with Barr Moses",
+      "event_id": "278558594",
+      "time": "2021.07.01-19:30:00"
+    },
+    "group_topics": [
+      "Software Development",
+      "Technology (Computer Forensics, Data Recovery)",
+      "Software Engineering",
+      "Engineering Leadership",
+      "Big Data",
+      "Engineering",
+      "Data Warehouses",
+      "Data Analytics",
+      "Data Visualization",
+      "Business Analysts",
+      "Software Product Management",
+      "Software Architecture",
+      "Product Management",
+      "product analysis and analytics",
+      "Big Data Analytics"
+    ],
+    "group_city": "New York",
+    "group_id": 35090185,
+    "group_name": "Data Mesh Learning Meetup Global",
+    "group_state": "New York"
+  },
+  {
+    "event": {
+      "event_name": "Jai Ranchod on pdftools and Bryan Lewis on DuckDB",
+      "event_id": "278434215",
+      "time": "2021.06.24-01:00:00"
+    },
+    "group_topics": [
+      "Big Data Analytics",
+      "Data Science",
+      "Machine Learning",
+      "R Project for Statistical Computing",
+      "Data Visualization",
+      "Data Analytics",
+      "Business Intelligence",
+      "Statistical Computing"
+    ],
+    "group_city": "Independence",
+    "group_id": 3114872,
+    "group_name": "Cleveland R User Group",
     "group_state": "Ohio"
+  },
+  {
+    "event": {
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008538",
+      "time": "2021.07.01-05:00:00"
+    },
+    "group_topics": [
+      "Social Networking",
+      "Women Entrepreneurs",
+      "Entrepreneur Networking",
+      "Professional Networking",
+      "Web Development",
+      "Software Development",
+      "New Technology",
+      "Online Marketing",
+      "Business Strategy",
+      "Big Data",
+      "User Experience",
+      "Startup Businesses",
+      "Computer programming",
+      "Technology Startups",
+      "iOS Development"
+    ],
+    "group_city": "Philadelphia",
+    "group_id": 19256338,
+    "group_name": "Pennsylvania  Startup: Idea to IPO",
+    "group_state": "Pennsylvania"
+  },
+  {
+    "event": {
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008538",
+      "time": "2021.07.01-05:00:00"
+    },
+    "group_topics": [
+      "Social Networking",
+      "Women Entrepreneurs",
+      "Entrepreneur Networking",
+      "Professional Networking",
+      "Web Development",
+      "Software Development",
+      "New Technology",
+      "Online Marketing",
+      "Business Strategy",
+      "Big Data",
+      "User Experience",
+      "Startup Businesses",
+      "Computer programming",
+      "Technology Startups",
+      "iOS Development"
+    ],
+    "group_city": "Philadelphia",
+    "group_id": 19256338,
+    "group_name": "Pennsylvania  Startup: Idea to IPO",
+    "group_state": "Pennsylvania"
+  },
+  {
+    "event": {
+      "event_name": "Angular Community Meetup | Americas - English",
+      "event_id": "qmbrhsyccjbdc",
+      "time": "2021.06.23-03:00:00"
+    },
+    "group_topics": [
+      "Typescript",
+      "Front-end Development",
+      "Computer programming",
+      "JavaScript",
+      "Web Development",
+      "HTML",
+      "JavaScript Frameworks",
+      "AngularJS",
+      "Angular2",
+      "Angular 2"
+    ],
+    "group_city": "South Jordan",
+    "group_id": 10238322,
+    "group_name": "Angular Community Meetup",
+    "group_state": "Utah"
+  },
+  {
+    "event": {
+      "event_name": "Python Office Hours",
+      "event_id": "278807563",
+      "time": "2021.07.02-02:00:00"
+    },
+    "group_topics": [
+      "Technology",
+      "Linux",
+      "Software Development",
+      "Web Development",
+      "Python",
+      "Django",
+      "Open Source",
+      "Computer programming",
+      "Web Design"
+    ],
+    "group_city": "Charlotte",
+    "group_id": 1719604,
+    "group_name": "Charlotte Python Meetup",
+    "group_state": "North Carolina"
+  },
+  {
+    "event": {
+      "event_name": "How to Split Founders' Equity and other Preliminary Startup Issues",
+      "event_id": "279008522",
+      "time": "2021.07.01-05:00:00"
+    },
+    "group_topics": [
+      "Web Development",
+      "New In Town",
+      "Social Networking",
+      "Software Development",
+      "New Technology",
+      "Web Technology",
+      "Women Entrepreneurs",
+      "Professional Networking",
+      "Business Strategy",
+      "Startup Businesses",
+      "Entrepreneurship",
+      "Entrepreneur Networking",
+      "Computer programming",
+      "Technology Startups",
+      "iOS Development"
+    ],
+    "group_city": "New York",
+    "group_id": 19256315,
+    "group_name": "New York  Startup: Idea to IPO",
+    "group_state": "New York"
+  },
+  {
+    "event": {
+      "event_name": "Statistical Paradoxes & Logical Fallacies: Don't Believe the Lies your Data Tell",
+      "event_id": "278459876",
+      "time": "2021.07.16-01:00:00"
+    },
+    "group_topics": [
+      "Intellectual Discussion",
+      "Education & Technology",
+      "Professional Networking",
+      "Professional Development",
+      "Data Visualization",
+      "Data Analytics",
+      "Data Science",
+      "Big Data",
+      "New Technology",
+      "Technology",
+      "Computer programming",
+      "Data Mining",
+      "Software Development",
+      "Predictive Analytics",
+      "Python"
+    ],
+    "group_city": "Philadelphia",
+    "group_id": 5654062,
+    "group_name": "Data Science Philadelphia (DataPhilly)",
+    "group_state": "Pennsylvania"
+  },
+  {
+    "event": {
+      "event_name": "Serious Data Science",
+      "event_id": "gkrjcsycckbrb",
+      "time": "2021.07.14-01:30:00"
+    },
+    "group_topics": [
+      "Science",
+      "Predictive Analytics",
+      "Data Visualization",
+      "Data Analytics",
+      "Big Data",
+      "Web Technology",
+      "Internet Professionals",
+      "New Technology",
+      "Technology",
+      "Machine Learning",
+      "Data Science"
+    ],
+    "group_city": "Sterling",
+    "group_id": 31103051,
+    "group_name": "Data Science & Machine Learning Collaborative Learning Group",
+    "group_state": "Virginia"
   }
 ]
