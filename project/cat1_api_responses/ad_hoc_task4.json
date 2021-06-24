@@ -1,0 +1,926 @@
+[
+  {
+    "city": [
+      "Mississauga"
+    ],
+    "group_name": [
+      "Sahaja Yoga Meditation - Mississauga"
+    ],
+    "group_id": [
+      31892462
+    ]
+  },
+  {
+    "city": [
+      "Cleveland"
+    ],
+    "group_name": [
+      "One Tank Trips"
+    ],
+    "group_id": [
+      27644269
+    ]
+  },
+  {
+    "city": [
+      "San Diego"
+    ],
+    "group_name": [
+      "Amazon Web Services San Diego | Official Events"
+    ],
+    "group_id": [
+      23430473
+    ]
+  },
+  {
+    "city": [
+      "Homosassa"
+    ],
+    "group_name": [
+      "Nature Coast Dragon Boat Club"
+    ],
+    "group_id": [
+      1596736
+    ]
+  },
+  {
+    "city": [
+      "Mc Lean"
+    ],
+    "group_name": [
+      "Northern Virginia Hiking Club (NVHC)"
+    ],
+    "group_id": [
+      1835201
+    ]
+  },
+  {
+    "city": [
+      "Atlanta"
+    ],
+    "group_name": [
+      "DeKalb Beginner Tennis Lessons"
+    ],
+    "group_id": [
+      33908785
+    ]
+  },
+  {
+    "city": [
+      "Chattanooga"
+    ],
+    "group_name": [
+      "1 Million Cups Chattanooga"
+    ],
+    "group_id": [
+      13784282
+    ]
+  },
+  {
+    "city": [
+      "Monterrey"
+    ],
+    "group_name": [
+      "OWASP Monterrey Chapter"
+    ],
+    "group_id": [
+      33012668
+    ]
+  },
+  {
+    "city": [
+      "New Westminster"
+    ],
+    "group_name": [
+      "Your Next Golf Game"
+    ],
+    "group_id": [
+      34897357
+    ]
+  },
+  {
+    "city": [
+      "Kassel"
+    ],
+    "group_name": [
+      "Java User Group Hessen (JUGH)"
+    ],
+    "group_id": [
+      14543672
+    ]
+  },
+  {
+    "city": [
+      "London"
+    ],
+    "group_name": [
+      "Magical Midweek Walks"
+    ],
+    "group_id": [
+      35429822
+    ]
+  },
+  {
+    "city": [
+      "Copenhagen"
+    ],
+    "group_name": [
+      "IoT People"
+    ],
+    "group_id": [
+      20405673
+    ]
+  },
+  {
+    "city": [
+      "Knoxville"
+    ],
+    "group_name": [
+      "Knoxville Hiking Meetup"
+    ],
+    "group_id": [
+      20286064
+    ]
+  },
+  {
+    "city": [
+      "New Westminster"
+    ],
+    "group_name": [
+      "Your Next Golf Game"
+    ],
+    "group_id": [
+      34897357
+    ]
+  },
+  {
+    "city": [
+      "Bangkok"
+    ],
+    "group_name": [
+      "Badminton Bangkok Sathorn YWCA"
+    ],
+    "group_id": [
+      32531888
+    ]
+  },
+  {
+    "city": [
+      "Nottingham"
+    ],
+    "group_name": [
+      "The Nottingham Social Activities Group"
+    ],
+    "group_id": [
+      598195
+    ]
+  },
+  {
+    "city": [
+      "Aston Upthorpe"
+    ],
+    "group_name": [
+      "South Oxfordshire Yoga and Meditation Meetup Group"
+    ],
+    "group_id": [
+      32058627
+    ]
+  },
+  {
+    "city": [
+      "San Diego"
+    ],
+    "group_name": [
+      "Flag Football Meetup"
+    ],
+    "group_id": [
+      19976866
+    ]
+  },
+  {
+    "city": [
+      "Firenze"
+    ],
+    "group_name": [
+      "AWE Nite Florence"
+    ],
+    "group_id": [
+      34652342
+    ]
+  },
+  {
+    "city": [
+      "Toronto"
+    ],
+    "group_name": [
+      "Yoga, Meditation, Kundalini, Reiki, High Vibration Energy"
+    ],
+    "group_id": [
+      33716483
+    ]
+  },
+  {
+    "city": [
+      "Dresden"
+    ],
+    "group_name": [
+      "Partei der Humanisten in Sachsen"
+    ],
+    "group_id": [
+      29118868
+    ]
+  },
+  {
+    "city": [
+      "Portland"
+    ],
+    "group_name": [
+      "55+ Couples Date Night"
+    ],
+    "group_id": [
+      7213042
+    ]
+  },
+  {
+    "city": [
+      "Amsterdam"
+    ],
+    "group_name": [
+      "Social Change Meetup Amsterdam"
+    ],
+    "group_id": [
+      26240007
+    ]
+  },
+  {
+    "city": [
+      "Edmonton"
+    ],
+    "group_name": [
+      "A Conscious Partner - Edmonton"
+    ],
+    "group_id": [
+      35046278
+    ]
+  },
+  {
+    "city": [
+      "Liverpool"
+    ],
+    "group_name": [
+      "Liverpool International Friends"
+    ],
+    "group_id": [
+      18627915
+    ]
+  },
+  {
+    "city": [
+      "Mc Lean"
+    ],
+    "group_name": [
+      "Northern Virginia Hiking Club (NVHC)"
+    ],
+    "group_id": [
+      1835201
+    ]
+  },
+  {
+    "city": [
+      "New York"
+    ],
+    "group_name": [
+      "New York City Social - 20's & 30's"
+    ],
+    "group_id": [
+      443233
+    ]
+  },
+  {
+    "city": [
+      "Cheltenham"
+    ],
+    "group_name": [
+      "Relaxed 7 a side football Cheltenham"
+    ],
+    "group_id": [
+      34941315
+    ]
+  },
+  {
+    "city": [
+      "Escondido"
+    ],
+    "group_name": [
+      "RaD North County: Rockin\u2019 and Dancing Active Social Group"
+    ],
+    "group_id": [
+      1338268
+    ]
+  },
+  {
+    "city": [
+      "Nagoya"
+    ],
+    "group_name": [
+      "Nagoya Afternoon Language Exchange (English/Japanese\u65e5\u672c\u8a9e\u82f1\u4f1a\u8a71\uff09"
+    ],
+    "group_id": [
+      33959190
+    ]
+  },
+  {
+    "city": [
+      "Manchester"
+    ],
+    "group_name": [
+      "Manchester Megamix"
+    ],
+    "group_id": [
+      19649504
+    ]
+  },
+  {
+    "city": [
+      "Phoenix"
+    ],
+    "group_name": [
+      "North Central Riders AZ"
+    ],
+    "group_id": [
+      33865856
+    ]
+  },
+  {
+    "city": [
+      "Portland"
+    ],
+    "group_name": [
+      "Portland Free Philosophy Lectures and Discussions"
+    ],
+    "group_id": [
+      25016860
+    ]
+  },
+  {
+    "city": [
+      "New York"
+    ],
+    "group_name": [
+      "New York City Social - 20's & 30's"
+    ],
+    "group_id": [
+      443233
+    ]
+  },
+  {
+    "city": [
+      "Bangkok"
+    ],
+    "group_name": [
+      "Badminton Bangkok Sathorn YWCA"
+    ],
+    "group_id": [
+      32531888
+    ]
+  },
+  {
+    "city": [
+      "Charlottesville"
+    ],
+    "group_name": [
+      "Shift/Enter"
+    ],
+    "group_id": [
+      32843417
+    ]
+  },
+  {
+    "city": [
+      "Orlando"
+    ],
+    "group_name": [
+      "Florida Trail Association - Central Florida and Highlanders"
+    ],
+    "group_id": [
+      2528442
+    ]
+  },
+  {
+    "city": [
+      "Raleigh"
+    ],
+    "group_name": [
+      "Guitar Group RTP Area Meetup"
+    ],
+    "group_id": [
+      227762
+    ]
+  },
+  {
+    "city": [
+      "Tel Aviv-Yafo"
+    ],
+    "group_name": [
+      "B2B Unicorn Marketing"
+    ],
+    "group_id": [
+      17786502
+    ]
+  },
+  {
+    "city": [
+      "Stouffville"
+    ],
+    "group_name": [
+      "Adventure Hiking and Fitness"
+    ],
+    "group_id": [
+      12081062
+    ]
+  },
+  {
+    "city": [
+      "Raleigh"
+    ],
+    "group_name": [
+      "Guitar Group RTP Area Meetup"
+    ],
+    "group_id": [
+      227762
+    ]
+  },
+  {
+    "city": [
+      "Hartford"
+    ],
+    "group_name": [
+      "Exploring Connecticut (20's, 30's, 40's)"
+    ],
+    "group_id": [
+      33164388
+    ]
+  },
+  {
+    "city": [
+      "Hartford"
+    ],
+    "group_name": [
+      "Exploring Connecticut (20's, 30's, 40's)"
+    ],
+    "group_id": [
+      33164388
+    ]
+  },
+  {
+    "city": [
+      "Bangkok"
+    ],
+    "group_name": [
+      "Badminton Bangkok Sathorn YWCA"
+    ],
+    "group_id": [
+      32531888
+    ]
+  },
+  {
+    "city": [
+      "Jacksonville"
+    ],
+    "group_name": [
+      "Jacksonville 20's and 30's Hang Out"
+    ],
+    "group_id": [
+      17883162
+    ]
+  },
+  {
+    "city": [
+      "London"
+    ],
+    "group_name": [
+      "The London Cultureseekers Group"
+    ],
+    "group_id": [
+      315983
+    ]
+  },
+  {
+    "city": [
+      "Portland"
+    ],
+    "group_name": [
+      "55+ Couples Date Night"
+    ],
+    "group_id": [
+      7213042
+    ]
+  },
+  {
+    "city": [
+      "Adelaide"
+    ],
+    "group_name": [
+      "Adelaide Events & Activities Group"
+    ],
+    "group_id": [
+      33173373
+    ]
+  },
+  {
+    "city": [
+      "London"
+    ],
+    "group_name": [
+      "The London Cultureseekers Group"
+    ],
+    "group_id": [
+      315983
+    ]
+  },
+  {
+    "city": [
+      "Dallas"
+    ],
+    "group_name": [
+      "Ex Gladiators - Friendly Coed Pickup Soccer"
+    ],
+    "group_id": [
+      10491232
+    ]
+  },
+  {
+    "city": [
+      "Paris"
+    ],
+    "group_name": [
+      "Paris Russian Literature Club"
+    ],
+    "group_id": [
+      25809664
+    ]
+  },
+  {
+    "city": [
+      "San Diego"
+    ],
+    "group_name": [
+      "Flag Football Meetup"
+    ],
+    "group_id": [
+      19976866
+    ]
+  },
+  {
+    "city": [
+      "Edmonton"
+    ],
+    "group_name": [
+      "A Conscious Partner - Edmonton"
+    ],
+    "group_id": [
+      35046278
+    ]
+  },
+  {
+    "city": [
+      "Rotterdam"
+    ],
+    "group_name": [
+      "Expat Sport Lounge Rotterdam"
+    ],
+    "group_id": [
+      23760281
+    ]
+  },
+  {
+    "city": [
+      "Barcelona"
+    ],
+    "group_name": [
+      "Nuevos Amigos \ud83d\ude43 BCNVidaSocial.com \u2705 2990+"
+    ],
+    "group_id": [
+      32898558
+    ]
+  },
+  {
+    "city": [
+      "Madrid"
+    ],
+    "group_name": [
+      "NLP Spain"
+    ],
+    "group_id": [
+      35240051
+    ]
+  },
+  {
+    "city": [
+      "London"
+    ],
+    "group_name": [
+      "Microsoft 365 UK (M365UK) User Group"
+    ],
+    "group_id": [
+      33802673
+    ]
+  },
+  {
+    "city": [
+      "Victoria"
+    ],
+    "group_name": [
+      "WILDERNESS HIKING & CAMPING"
+    ],
+    "group_id": [
+      32452181
+    ]
+  },
+  {
+    "city": [
+      "Philadelphia"
+    ],
+    "group_name": [
+      "Black Philadelphia"
+    ],
+    "group_id": [
+      3252182
+    ]
+  },
+  {
+    "city": [
+      "Tallahassee"
+    ],
+    "group_name": [
+      "Apalachee Chapter of the Florida Trail Association"
+    ],
+    "group_id": [
+      1660541
+    ]
+  },
+  {
+    "city": [
+      "Berlin"
+    ],
+    "group_name": [
+      "Friendly Football"
+    ],
+    "group_id": [
+      32039066
+    ]
+  },
+  {
+    "city": [
+      "Pickering"
+    ],
+    "group_name": [
+      "Short Fast Hikes - Scarborough, Pickering, Ajax"
+    ],
+    "group_id": [
+      25276379
+    ]
+  },
+  {
+    "city": [
+      "Nagoya"
+    ],
+    "group_name": [
+      "Nagoya Afternoon Language Exchange (English/Japanese\u65e5\u672c\u8a9e\u82f1\u4f1a\u8a71\uff09"
+    ],
+    "group_id": [
+      33959190
+    ]
+  },
+  {
+    "city": [
+      "Savannah"
+    ],
+    "group_name": [
+      "Weekday Boredom Support Group"
+    ],
+    "group_id": [
+      34252194
+    ]
+  },
+  {
+    "city": [
+      "Mississauga"
+    ],
+    "group_name": [
+      "GTA Businesses Networking & Learning"
+    ],
+    "group_id": [
+      35329686
+    ]
+  },
+  {
+    "city": [
+      "London"
+    ],
+    "group_name": [
+      "The Django London Meetup Group"
+    ],
+    "group_id": [
+      1830801
+    ]
+  },
+  {
+    "city": [
+      "Minato City"
+    ],
+    "group_name": [
+      "ITF-Tokyo _International Tennis Freaks-Tokyo"
+    ],
+    "group_id": [
+      34841330
+    ]
+  },
+  {
+    "city": [
+      "Hong Kong"
+    ],
+    "group_name": [
+      "Board Game-Oasis \ud83c\udf34/ HongKong International Board Game Group"
+    ],
+    "group_id": [
+      19847418
+    ]
+  },
+  {
+    "city": [
+      "London"
+    ],
+    "group_name": [
+      "Deeper Conversations"
+    ],
+    "group_id": [
+      26106388
+    ]
+  },
+  {
+    "city": [
+      "Las Vegas"
+    ],
+    "group_name": [
+      "Hula Hoop Fitness Online/Virtual Class"
+    ],
+    "group_id": [
+      24580331
+    ]
+  },
+  {
+    "city": [
+      "Sunnyvale"
+    ],
+    "group_name": [
+      "South Bay Indoor / Outdoor Activities Group (SBIO)"
+    ],
+    "group_id": [
+      1539976
+    ]
+  },
+  {
+    "city": [
+      "New York"
+    ],
+    "group_name": [
+      "NYC Singles Age 21-35 Board Game Group Version 2.0"
+    ],
+    "group_id": [
+      2741762
+    ]
+  },
+  {
+    "city": [
+      "Hartford"
+    ],
+    "group_name": [
+      "Hartford Area Hiking\u2122"
+    ],
+    "group_id": [
+      209210
+    ]
+  },
+  {
+    "city": [
+      "Nashville"
+    ],
+    "group_name": [
+      "Nashville Basketball Opportunities"
+    ],
+    "group_id": [
+      25681644
+    ]
+  },
+  {
+    "city": [
+      "London"
+    ],
+    "group_name": [
+      "Deeper Conversations"
+    ],
+    "group_id": [
+      26106388
+    ]
+  },
+  {
+    "city": [
+      "Atlanta"
+    ],
+    "group_name": [
+      "ATL After Dark Young Professionals"
+    ],
+    "group_id": [
+      20272851
+    ]
+  },
+  {
+    "city": [
+      "Atlanta"
+    ],
+    "group_name": [
+      "LANGUAGE EXCHANGE ATLANTA"
+    ],
+    "group_id": [
+      19120719
+    ]
+  },
+  {
+    "city": [
+      "Annandale"
+    ],
+    "group_name": [
+      "Northern Virginia Catholic Bible Study Meetup"
+    ],
+    "group_id": [
+      32055448
+    ]
+  },
+  {
+    "city": [
+      "Annandale"
+    ],
+    "group_name": [
+      "Northern Virginia Catholic Bible Study Meetup"
+    ],
+    "group_id": [
+      32055448
+    ]
+  },
+  {
+    "city": [
+      "London"
+    ],
+    "group_name": [
+      "Agile Xpertise"
+    ],
+    "group_id": [
+      18058502
+    ]
+  },
+  {
+    "city": [
+      "Bangkok"
+    ],
+    "group_name": [
+      "Badminton Bangkok Sathorn YWCA"
+    ],
+    "group_id": [
+      32531888
+    ]
+  },
+  {
+    "city": [
+      "Paris"
+    ],
+    "group_name": [
+      "\u263c Polyglot Club Paris"
+    ],
+    "group_id": [
+      14683142
+    ]
+  },
+  {
+    "city": [
+      "Las Vegas"
+    ],
+    "group_name": [
+      "Hula Hoop Fitness Online/Virtual Class"
+    ],
+    "group_id": [
+      24580331
+    ]
+  },
+  {
+    "city": [
+      "Madrid"
+    ],
+    "group_name": [
+      "Fotografiando Madrid"
+    ],
+    "group_id": [
+      35300382
+    ]
+  }
+]

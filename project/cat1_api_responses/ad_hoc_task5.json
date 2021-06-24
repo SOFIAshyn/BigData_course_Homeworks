@@ -1,0 +1,98 @@
+[
+  {
+    "event_id": [
+      "pkppksyccmbdc"
+    ],
+    "event_name": [
+      "Wednesday lunchtime basketball at First Church of the Nazarene"
+    ],
+    "event_time": "Sat Jun 23 11:00:00 53696",
+    "topics": [
+      [
+        "Women's Basketball",
+        "Coed Basketball Pick Up",
+        "Outdoor Basketball",
+        "Indoor basketball",
+        "Co-Ed Adult basketball",
+        "Basketball",
+        "Sports and Recreation",
+        "Men's Basketball",
+        "Pick-up Basketball",
+        "Team Sport",
+        "Men's Pick-up Basketball",
+        "recreational team sport"
+      ]
+    ],
+    "group_name": [
+      "Nashville Basketball Opportunities"
+    ],
+    "city": [
+      "Nashville"
+    ],
+    "country": "United States"
+  },
+  {
+    "event_id": [
+      "zgwrksyccmbkc"
+    ],
+    "event_name": [
+      "Monday Lunchtime Basketball"
+    ],
+    "event_time": "Mon Mar  3 10:00:00 53710",
+    "topics": [
+      [
+        "Women's Basketball",
+        "Coed Basketball Pick Up",
+        "Outdoor Basketball",
+        "Indoor basketball",
+        "Co-Ed Adult basketball",
+        "Basketball",
+        "Sports and Recreation",
+        "Men's Basketball",
+        "Pick-up Basketball",
+        "Team Sport",
+        "Men's Pick-up Basketball",
+        "recreational team sport"
+      ]
+    ],
+    "group_name": [
+      "Nashville Basketball Opportunities"
+    ],
+    "city": [
+      "Nashville"
+    ],
+    "country": "United States"
+  },
+  {
+    "event_id": [
+      "pkppksyccmbmc"
+    ],
+    "event_name": [
+      "Wednesday lunchtime basketball at First Church of the Nazarene"
+    ],
+    "event_time": "Sat Aug 24 11:00:00 53715",
+    "topics": [
+      [
+        "Women's Basketball",
+        "Coed Basketball Pick Up",
+        "Outdoor Basketball",
+        "Indoor basketball",
+        "Co-Ed Adult basketball",
+        "Basketball",
+        "Sports and Recreation",
+        "Men's Basketball",
+        "Pick-up Basketball",
+        "Team Sport",
+        "Men's Pick-up Basketball",
+        "recreational team sport"
+      ]
+    ],
+    "group_name": [
+      "Nashville Basketball Opportunities"
+    ],
+    "city": [
+      "Nashville"
+    ],
+    "country": "United States"
+  }
+]
